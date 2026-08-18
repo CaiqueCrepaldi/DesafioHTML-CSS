@@ -22,4 +22,4 @@ Jogos favoritos (Minecraft, GTA 5, God of War).
 
 ## Como ver
 
-E so abrir o index.html no navegador, ou acessar pelo link do GitHub Pages.
+Utilize o Link do GitHub Pages, Você também pode clonar o repositório e alterar da forma que preferir.
