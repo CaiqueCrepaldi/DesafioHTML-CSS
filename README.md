@@ -22,4 +22,4 @@ Jogos favoritos (Minecraft, GTA 5, God of War).
 
 ## Como ver
 
-Utilize o Link do GitHub Pages, Você também pode clonar o repositório e alterar da forma que preferir.
+Utilize o Link do GitHub Pages https://caiquecrepaldi.github.io/DesafioHTML-CSS/. Você também pode clonar o repositório e alterar da forma que preferir.
